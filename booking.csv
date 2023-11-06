@@ -1,5 +1,1 @@
 PatientId,AppointmentID,Gender,ScheduledDay,AppointmentDay,Age,Neighbourhood,Scholarship,Hipertension,Diabetes,Alcoholism,Handcap,SMS_received,No-show,Doctor_id,Doctor's Name,speciality,time,disease_type
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-110293,5790486,F,2023-11-06,,32,Calicut,1,0,1,0,1,,,,,Gynecologist,,Polycystic ovary syndrome (PCOS)
-110293,5790486,F,2023-11-06,,23,kadri,1,1,0,1,0,,,,,Psychiatrist,,Depression
