@@ -1,5 +1,8 @@
-PatientId,AppointmentID,Gender,ScheduledDay,AppointmentDay,Age,Neighbourhood,Scholarship,Hipertension,Diabetes,Alcoholism,Handcap,SMS_received,No-show,Doctor_id,Doctor's Name,speciality,time,disease_type
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-110293,5790486,F,2023-11-06,,32,Calicut,1,0,1,0,1,,,,,Gynecologist,,Polycystic ovary syndrome (PCOS)
-110293,5790486,F,2023-11-06,,23,kadri,1,1,0,1,0,,,,,Psychiatrist,,Depression
+PatientId,AppointmentID,Gender,ScheduledDay,AppointmentDay,Age,Neighbourhood,Scholarship,Hipertension,Diabetes,Alcoholism,Handcap,SMS_received,No-show,Doctor_id,Doctors Name,speciality,time,disease_type
+110292,5790486,F,06-11-2023,,32,Calicut,1,0,1,0,1,,,,,Gynecologist,,Polycystic ovary syndrome (PCOS)
+110293,5790486,F,06-11-2023,,23,kadri,1,1,0,1,0,,,,,Psychiatrist,,Depression
+110294,5790487,,07-11-2023,10-12-2023,,,1,1,1,1,1,,,1842,"Dr. Ryan S. Sultan, MD",Psychiatrist,,Depression
+110295,5790488,,07-11-2023,10-12-2023,,,1,1,1,1,1,,,1842,"Dr. Karen Blitz-Shabbir, DO",Neurologist,,Migraine
+110296,5790489,,07-11-2023,10-12-2023,,,1,1,1,1,1,,,1842,"Dr. Donald Palmadessa, MD",Gastroenterologist,,Irritable bowel syndrome (IBS)
+110297,5790490,f,07-11-2023,10-12-2023,22,calma,1,1,0,0,1,,,1842,"Dr. Kazimierz Komperda, MD",Orthopedic Surgeon,,Osteoarthritis
+110298,5790491,dfs,2023-11-07,2023-12-10,sad,fs,1,1,1,1,1,,,1842.0,"Dr. Zvi Ben-Zvi, MD",Pediatrician,,Asthma in children
