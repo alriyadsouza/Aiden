@@ -33,7 +33,7 @@ class Aiden:
 
   def greet(self):
     self.name= input("What is your name?\n")
-    will_help= input(f"Hi {self.name}, I am Aiden. Are you new here?\n")
+    will_help= input(f"Hi {self.name}, I am Aiden. Your personal health assistant! \n Are you new here?\n")
     if will_help.lower() in self.negative_response:
       print("Cool! We'll look into the booking process then :)\n")
       self.search_id()
